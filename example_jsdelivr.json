@@ -1,0 +1,10 @@
+{
+    "type" : "jsdelivr",
+    "repository": "Files_Resources",
+    "branch":"fix",
+    "cachedTempTime": 86400000,
+    "hash": "10423ac",
+    "tip_time": 86400000,
+    "needChangeHash":true,
+    "priority":true
+}
