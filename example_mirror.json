@@ -1,5 +1,8 @@
 {
     "type" : "mirror",
     "repository": "Files_Resources",
-    "branch":"fix"
+    "branch":"fix",
+    "releases(optional)":false,
+    "tag(optional)":"rrr"
+    
 }
