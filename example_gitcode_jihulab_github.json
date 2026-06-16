@@ -9,3 +9,10 @@
     "repository": "Files_Resources",
     "branch":"fix"
 }
+{
+    "type" : "github",
+    "repository": "Files_Resources",
+    "branch":"fix",
+    "releases(optional)":false,
+    "tag(optional)":"rrr"
+}
