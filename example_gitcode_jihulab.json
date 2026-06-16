@@ -1,0 +1,11 @@
+{
+    "type" : "gitcode",
+    "repository": "Files_Resources",
+    "branch":"fix"
+}
+
+{
+    "type" : "jihulab",
+    "repository": "Files_Resources",
+    "branch":"fix"
+}
