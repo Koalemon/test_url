@@ -3,6 +3,6 @@
     "repository": "Files_Resources",
     "branch":"fix",
     "releases(optional)":false,
-    "tag(optional)":"rrr"
-    
+    "tag(optional)":"rrr",
+    "url(optional)":"https://v6.gh-proxy.org/"
 }
