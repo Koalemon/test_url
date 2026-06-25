@@ -1,5 +1,5 @@
 {
-    "type" : "mirror",
+    "type" : "github-mirror",
     "repository": "Files_Resources",
     "branch":"fix",
     "releases(optional)":false,
